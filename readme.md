@@ -21,4 +21,4 @@
 
 ## How to submit?
 
-+ git pull to https://github.com/Deep-Learning-for-NLP-Chinese/Project-1.git
++ git push to https://github.com/Deep-Learning-for-NLP-Chinese/Project-1.git
