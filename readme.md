@@ -14,7 +14,6 @@
 ## Submission Requirements
 
 + 源代码
-+ 最终汇报文档(pdf)
 + 中间运行结果(jupyter notebook)
 + 算法流程解释(slides)
 + 遇到的问题与思考(pdf)
